@@ -1,10 +1,10 @@
 # Plan
 
 ## Recursion
-- Implement BeamBA.Uniq
+- Implement BeamBA.Index.pack
     * naïvely
     * really
-- Implement BeamBA.Index.pack
+- Implement BeamBA.Uniq
     * naïvely
     * really
 - Implement BeamBA.Index.unpack
